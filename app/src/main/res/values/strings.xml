@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">Number Displayer</string>
+    <string name="capital" translatable="false">Is Albany the capital of New York?</string>
+    <string name="correct_toast" translatable="false">Correct!!!!</string>
+    <string name="incorrect_toast" translatable="false">Incorrect, you fail! :(</string>
+    <string name="yes" translatable="false">True</string>
+    <string name="no" translatable="false">False</string>
+    <string name="albany" translatable="false">Albany</string>
+    <string name="calculator">calculator</string>
+
+</resources>
